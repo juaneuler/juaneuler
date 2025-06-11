@@ -81,7 +81,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 - 🎵 [THE DRIVER ERA - Shop](https://thedrivererashop.netlify.app/)  
   E-commerce en React + Firebase basado en la banda The Driver Era. Incluye carrito, gestión de órdenes, diseño responsive y más.  
