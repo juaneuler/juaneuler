@@ -1,3 +1,5 @@
+<img src="https://github.com/juaneuler/juaneuler/blob/main/banner-github.png?raw=true" alt="Banner del perfil de Juan Euler" width="100%" />
+
 <h1 align="center">Hi there! I'm Juan Euler</h1>
 <p align="center">
   Frontend Developer from Buenos Aires, Argentina — passionate about building interactive and responsive web experiences.  
