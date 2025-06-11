@@ -1,4 +1,4 @@
-<img src="https://github.com/juaneuler/juaneuler/blob/main/portadaGitHub.pngraw=true" alt="Banner del perfil de Juan Euler" width="100%" />
+<img src="https://github.com/juaneuler/juaneuler/blob/main/portadaGitHub.png?raw=true" alt="Banner del perfil de Juan Euler" width="100%" />
 
 <h1 align="center">Hi there! I'm Juan Euler</h1>
 <p align="center">
